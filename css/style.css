@@ -5,10 +5,15 @@
     font-family: "Josefin Sans", sans-serif;
 }
 
+body {
+    margin-top: 40px;
+}
+
 /* city name */
 h1 {
     font-size: 28px;
     font-weight: 900;
+    text-align: center;
 }
 
 h3 {
@@ -38,9 +43,4 @@ p {
     text-align: center;
     box-shadow: 4px 4px 12px 1px #949ba684;
 
-}
-
-h3 {
-    height: 100%;
-    vertical-align: bottom;
 }
